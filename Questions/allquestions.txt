@@ -1,0 +1,81 @@
+Q: What is pi?
+A: The relation between a circles circumference and its diameter, approximately = 3.14 ; A pastry ; The largest known prime number, approximately = 2^38 ; A kids book
+C: geometry
+
+Q: What is Ice-H?
+A: Only the greatest rapper-lady of all times! ; A special kind of ice ; P Diddys girlfriend ; The highest mountain on earth
+C: hiphop
+
+Q: What is the MoEDAL experiment?
+A: It's an LHC experiment designed to look for magnetic monopoles. 
+C: physics,LHC
+
+Q: What is the ALFA detector?
+A: It stands for Absolute Luminosity For ATLAS and is a forward detector in ATLAS. It's located 240 m from IP and cover 10.6 < |η| < 13.5. The goal is to measure the absolute luminosity, and thus the total XS. It consists of a scintillating fibre detector mounted on a Roman Pot. 
+C: physics,LHC,ATLAS,luminosity,XS
+
+Q: Explain how secondary tracks are estimated in the ATLAS minbias analyses.
+A: The number of secondaries are estimated from the d0 distributions. The central part of this distribution is dominated by primary tracks, the tails are dominated by secondaries. Secondaries are tracks from hadronic interactions (dominant), photon conversions and decays of long-lived particles (strange mesons, lambdas and kaons). In slices of pT, templates are used to fit the different contributions in the sideband regions, e.g. |d0|>5 mm or so. The reason for doing it in slices in pT is that contributions are different as a function of pT (e.g. more photon conversions at low-pT). The normalisation of the different sources are allowed to float, and the fit result may then be used to predict the value in the central region. I think the uncertainty is estimated by varying the sideband region definition, possibly also by calculating the values with distorted material samples. 
+   [WRITE ME: how can shapes be understood?]
+C: physics,ATLAS,minbias
+
+Q: Summarise the saga of tracking efficiency and primary particles concerning the strange baryons.
+A: [WRITE ME]. In the mean time, see these slides https://indico.cern.ch/event/399728/contributions/1840311/attachments/800503/1097077/StrangeBaryons.pdf
+C: physics,LHC,ATLAS,minbias,tracking
+
+Q: What is Monte Carlo sampling? Bonus points for explaining Buffon’s needle and the first MC program estimating the neutron’s life time. 
+A: [WRITE ME]. For the neutron life time MC program, see http://www.jstor.org/stable/2280232.
+C: MC,statistics,physics
+
+Q: What is colour reconnection (in the context of QCD and hadron-hadron collisions)?
+A: [WRITE ME]
+C: minbias,MC,physics,QCD
+
+Q: What is the GZK cutoff?
+A: The Greisen–Zatsepin–Kuzmin limit, postulating that cosmic rays should have energies below 5e19 eV (about 8 joules). The reason being that such protons should interact with CMB photons and produce pions via the delta resonance, i.e. gamma_CMB + proton -> Delta^+ -> p + pi^0. However, cosmic rays with energies above this limit have been observed. Not many though. One was measured to have energy 3.12e20 which is the same kinetic energy as carried by a baseball at 60 mph (100 km/h) [QUESTION: what about other particles than protons — are there corresponding cut-offs for photons, electrons?]
+C: CosmicRays, physics
+
+Q: What is the dependence of angle of scattering on particle momentum for multiple scattering? (And what implications does this have for e.g. low-momentum minbias tracks?) See reference http://pdg.lbl.gov/2015/reviews/rpp2015-rev-passage-particles-matter.pdf .
+A: 1/(beta*c*p); beta/(c*p); c*p/beta; c*p*beta
+C: minbias,tracking,physics,ATLAS
+
+Q: What is the T2K experiment?
+A: [WRITE ME]
+C: neutrinos,physics
+
+Q: Given that two variables x and y are independent,
+A: They are also uncorrelated (covariance vanishes); They are not necessarily uncorrelated (but might be); They are correlated
+C: statistics
+
+Q: Given that two variables x and y are uncorrelated,
+A: They are not necessarily independent (but might be. Uncorrelated is a weaker statement as compared to independent); They are also independent; They are dependent 
+C: statistics
+
+Q: Explain how in python objects are passed to functions. By reference or by value? 
+A: Technically, things are passed by value, however, names in python are always bound to object references. So in practise, references to objects are passed. Now, it’s important to distinguish between mutable and immutable types. For example, int and float objects are immutable. x=4 means “name x is bound to integer object with value 4”. This object can never change (immutable), but when assigning x =5 x is rebound to a new integer object. Everything (almost) in python is an object. So when passing x to a function def func(x) in which first line is x=5, a new local variable is created (and bound to integer object with value 5). In caller’s scope x is unaffected. A list is a mutable object. It can be modified inside a function, like def additemtolist(foo): foo.append(1), which when called changes the caller’s list. However, if inside the function it would instead say foo = [1, 2, 3] the caller’s list is unaffected: foo becomes a local variable. I think this is because assignment always means rebinding. I don’t fully understand this part though.
+C: programming,python
+
+Q: What is the ISOLDE experiment?
+A: A magnetic monopole experiment at CERN; a neutrino experiment in the USA; a dark matter experiment in Australia; A nuclear physics experiment at CERN studying rare nuclei by  firing protons to a target and extracting the rare nuclei with a mass spectrometer (magnetic field) and keeping them in a ring (watching them decay, I guess)
+C: physics,LHC
+
+Q: What does TH1::GetEntries() return?
+A: the number of times Fill() has been called (regardless of weights), including under- and overflow; the histogram sum of weights; the histogram sum of weights, squared; the number of times Fill() has been called (regardless of weights), excluding under- and overflow
+C: ROOT,statistics,DataAnalysis
+
+Q: What does the “p” stand for in ATLAS dataset names like “..15_13TeV.00_pXXXX_..”?
+A: DAOD reconstruction tag; AOD reconstruction tag; MC dataset id number; ATLAS fast/FullSim identifier
+C: ATLAS,ATLASdata
+
+Q: What are “BCMS” beams and how does it compare to nominal beams?
+A: WRITE ME
+C: LHC,ATLAS
+
+Q: Draw the feynman diagram for the most common pi-0 decay. What’s the mean life time of the pi0 and what do pi-0s often give rise to in our detector?
+A: Most commonly decays to two photons. EM decay. Mean lifetime = 8.4e-17 s. Often gives rise to photon conversions.
+C: ATLAS,physics,particles
+
+Q: Bremsstrahlung goes as (and what does this mean for probability of different particles; electron,muon,pion to emit bremsstrahlung photons in ATLAS?)
+A: m^-4; m^2; m^4; m^-6
+C: physics,ATLAS,particles
+
