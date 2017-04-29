@@ -4,7 +4,7 @@
 ### (not sure how to make other cell's content visible)
 
 g_DEBUG = False # will print out a bunch of messages
-g_PATHQUESTIONFILE = "/Users/edvinsidebo/code-projects/quizMe/Questions/allquestions.txt" # path to question text file (for now assume only one)
+g_PATHQUESTIONFILE = "./Questions/allquestions.txt" # path to question text file (for now assume only one)
 
 #import sys
 import random

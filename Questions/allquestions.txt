@@ -40,7 +40,7 @@ A: 1/(beta*c*p); beta/(c*p); c*p/beta; c*p*beta
 C: minbias,tracking,physics,ATLAS
 
 Q: What is the T2K experiment?
-A: [WRITE ME]
+A: A neutrino-oscillation experiment in Japan. It get muon neutrinos from the J-PARC facility (50 GeV synchrotron protons -> target -> positive pions -> mu+v) which is pointed slightly off-axis toward the SuperKamiokande detector. The goal is to study in isolation mu->e neutrino oscillation, i.e. measuring theta_13 in PMNS matrix. Goal is also to measure Δm2_23 and theta_23.
 C: neutrinos,physics
 
 Q: Given that two variables x and y are independent,
