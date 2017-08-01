@@ -79,3 +79,10 @@ Q: Bremsstrahlung goes as (and what does this mean for probability of different 
 A: m^-4; m^2; m^4; m^-6
 C: physics,ATLAS,particles
 
+Q: What does ‘OLV’ mean, and what is it used for?
+A: Outside-Lepton-Veto, used to veto events with leptons outside the VBF-tagged-jets rapidity gap. This increases the significance to select signal events, I presume, since leptons outside this gap isn’t expected for signal.
+C: physics,ATLAS,HWW
+
+Q: What does ‘CJV’ mean, and what is it used for?
+A: Central-Jet-Veto, used to veto events with jets with pT>20GeV inside the VBF-tagged jets’ rapidity gap. Presumably used to increase signal significance, but I should understand why one cannot have/don’t expect to have extra jets in this region.
+C: physics,ATLAS,HWW
