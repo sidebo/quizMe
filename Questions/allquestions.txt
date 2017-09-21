@@ -86,3 +86,16 @@ C: physics,ATLAS,HWW
 Q: What does ‘CJV’ mean, and what is it used for?
 A: Central-Jet-Veto, used to veto events with jets with pT>20GeV inside the VBF-tagged jets’ rapidity gap. Presumably used to increase signal significance, but I should understand why one cannot have/don’t expect to have extra jets in this region.
 C: physics,ATLAS,HWW
+
+Q: Who is the prime minister of Hungary?
+A: Viktor Orbán
+C: politics
+
+Q: Who is Viktor Orbán?
+A: The prime minister of Hungary; the prime minister of Poland; the president of Romania; EU commissioner of Hungary
+C: politics
+
+Q: Vem har skrivit En man som heter Ove?
+A: Fredrik Backman; Jonas Jonasson; Hans Ingemansson; Malin Persson Giolito
+C: literature,blandat
+
