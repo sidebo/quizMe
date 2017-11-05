@@ -99,3 +99,7 @@ Q: Vem har skrivit En man som heter Ove?
 A: Fredrik Backman; Jonas Jonasson; Hans Ingemansson; Malin Persson Giolito
 C: literature,blandat
 
+Q: Schimpanser
+A: kan äta babianer; kan bli uppätna av babianer; varken äter eller blir uppätna av babianer, men ogillar dem; älskar babianer mer än Kikki Danielsson älskar bag-in-box
+C: biologi,djur
+
