@@ -76,7 +76,7 @@ class QuestionCard:
                 print("\nYou gave answer {0}, which is not correct... Sorry. The correct answer is {1}".format(user_answer, self.letters[self.idx_random_correct]))
 
 
-        cont = str(input("Hit 'Q' to quit. Hit any other key to continue: ")).upper()
+        cont = str(input("\nHit 'Q' to quit. Hit any other key to continue: ")).upper()
         if cont == "Q":
             return False
 

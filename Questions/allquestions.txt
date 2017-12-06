@@ -106,3 +106,15 @@ C: biologi,djur
 Q: Why do we never see muons in radioactive decays?
 A: They are too heavy, mass 201 MeV, Q is typically a few MeV
 C: physics,particles
+
+Q: Vad hette den finska general som ledde Finland under inbördeskriget januari-maj 1918 (där “de vita” slogs mot “de röda” för att behålla Finland självständigt så som man utropat sig efter oktoberrevolutionen):
+A: Carl Gustaf Emil Mannerheim; Pehr Eyvind Svinhufvud;Albert von Julin; Emil af Hällström
+C: politics,war,finland
+
+Q: Hur många krig har Finland haft under 1900-talet?
+A: 4; 3; 5; 2
+C: politics,war,finland
+
+Q: Vilken stad brändes ner av tyskarna under Lapplandskriget?
+A: Rovaniemi; Vasa; Suinula; Filpula
+C: politics,war,finland
