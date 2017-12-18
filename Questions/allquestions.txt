@@ -118,3 +118,7 @@ C: politics,war,finland
 Q: Vilken stad brändes ner av tyskarna under Lapplandskriget?
 A: Rovaniemi; Vasa; Suinula; Filpula
 C: politics,war,finland
+
+Q: How does the Higgs couple to bosons and fermions?
+A: The coupling is proportional to m^2 for bosons, to m for fermions.
+C: physics,particles,higgs,QFT
