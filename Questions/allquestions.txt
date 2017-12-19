@@ -126,3 +126,7 @@ C: physics,particles,higgs,QFT
 Q: The OZI rule states that decay processes that can be “snipped” by cutting only gluon lines are (hint: asymptotic freedom)
 A: suppressed (leading to longer lifetime); forbidden (cannot decay through that process); enhanced (leading to shorter lifetime); associated with states of high mass
 C: physics,particles,QCD
+
+Q: Vilken är Indiens huvudstad?
+A: New Dehli; Calcutta; Bombay/Mumbai; Bengaluru
+C: blandat,geografi
