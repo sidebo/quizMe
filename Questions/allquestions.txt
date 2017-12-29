@@ -130,3 +130,11 @@ C: physics,particles,QCD
 Q: Vilken är Indiens huvudstad?
 A: New Dehli; Calcutta; Bombay/Mumbai; Bengaluru
 C: blandat,geografi
+
+Q: What is CEPC, and what is its goal?
+A: It stands for Circular Electron Positron Collider, proposed Higgs factory to possibly be built in China. It could after having completed a Higgs precision measurement phase be upgraded to a 50-70 TeV proton-proton machine (Super Proton Proton Collider, SPPS). According to its own website, the cost/luminosity ratio would be low. Yang (perhaps most famous chinese physicist, part founder of Yang-Mills theory) has expressed concerns about the project. 
+C: physics,particles,higgs
+
+Q: What is the vev of the Higgs field measured to be? hint: = 2*M_W/g
+A: 246 GeV; 125 GeV; 125^2 GeV; 161 GeV
+C: physics,particles,higgs
