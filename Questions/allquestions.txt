@@ -138,3 +138,11 @@ C: physics,particles,higgs
 Q: What is the vev of the Higgs field measured to be? hint: = 2*M_W/g
 A: 246 GeV; 125 GeV; 125^2 GeV; 161 GeV
 C: physics,particles,higgs
+
+Q: State Wick’s theorem.
+A: T(ABC..) where T is time-ordered, A,B,C operators, T(ABC) = N(ABC..) + N(A-B,CD..) + N(A,B-C,D…) + all 3-, 4-, … n-contractions (dash stands for contraction). When what’s inside the parenthesis are products of normal ordered bunches, Wick says not to contract operators within such a bunch. 
+C: physics,particles,qft
+
+Q: What is meant by the statement that the pion is too light?
+A: The proton, neutron etc. have a mass of ~1 GeV, which is the natural (empirical) scale of QCD. The pions however weigh some 100 MeV. Light quarks are very light, which should mean most of mass are glue. But then why is the pion so much lighter?
+C: physics,particles,qft,QCD
