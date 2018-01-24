@@ -146,3 +146,7 @@ C: physics,particles,qft
 Q: What is meant by the statement that the pion is too light?
 A: The proton, neutron etc. have a mass of ~1 GeV, which is the natural (empirical) scale of QCD. The pions however weigh some 100 MeV. Light quarks are very light, which should mean most of mass are glue. But then why is the pion so much lighter?
 C: physics,particles,qft,QCD
+
+Q: What is the rapidity requirements on the VBF-tagged jets in the HWW VBF analysis?
+A: None. Only deltaY is used as input into the BDT.
+C: physics,particles,HWW,VBF
