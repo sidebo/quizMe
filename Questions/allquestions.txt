@@ -154,3 +154,15 @@ C: physics,particles,HWW,VBF
 Q: What is the charge asymmetry for the fakes in our HWW analysis? (One might naively expect more negatively charged fakes since there should be more positively charged Ws)
 A: For muon fakes, no asymmetry. W+charm requires s-quark in initial state. For electron fakes, some asymmetry, since some light fakes. Data/MC agrees for both.
 C: physics,particles,HWW
+
+Q: What is the Lorenz gauge condition?
+A: dmuAmu = 0
+C: qft,physics,particles
+
+Q: Write down the interaction lagrangian for QED
+A: -
+C: qft,physics,particles
+
+Q: What is Bhabha scattering?
+A: -
+C: qft,physics,particles
