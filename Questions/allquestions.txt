@@ -84,7 +84,7 @@ A: Outside-Lepton-Veto, used to veto events with leptons outside the VBF-tagged-
 C: physics,ATLAS,HWW
 
 Q: What does ‘CJV’ mean, and what is it used for?
-A: Central-Jet-Veto, used to veto events with jets with pT>20GeV inside the VBF-tagged jets’ rapidity gap. Presumably used to increase signal significance, but I should understand why one cannot have/don’t expect to have extra jets in this region.
+A: Central-Jet-Veto, used to veto events with jets with pT>20GeV inside the VBF-tagged jets’ rapidity gap. It is used to increase signal significance since in VBF events there’s no colour flow between the interacting quarks, so one typically expects no jets between the two VBF-tagged jets.
 C: physics,ATLAS,HWW
 
 Q: Who is the prime minister of Hungary?
