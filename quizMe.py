@@ -78,6 +78,7 @@ class QuestionCard:
 
         cont = str(input("\nHit 'Q' to quit. Hit any other key to continue: ")).upper()
         if cont == "Q":
+            print("\n*** You have chosen to end the quiz.")
             return False
 
         return True
@@ -260,6 +261,7 @@ class Deck:
 class QuizMaster:
 
     def __init__(self, path_to_questionfile = g_PATHQUESTIONFILE):
+        # create deck of all question cards
         self.all_questions = Deck()
         self.all_questions.load(path_to_questionfile)
         if len(self.all_questions.library) < 1:
@@ -283,7 +285,7 @@ class QuizMaster:
 
         self.showMenu()
 
-        choice = len(self.menu) # default = quit as safety
+        choice = len(self.menu) # default = quit, as safety
         choice_OK = False
 
         while not choice_OK:
@@ -373,11 +375,12 @@ class QuizMaster:
         # Run the quiz by asking questions until user terminates it
         print("\n*** Starting quiz. Questions coming up! \n")
 
+        # keep asking questions as long as the user likes
         while self.askQuestion():
             pass
 
         # Should only end up here if user prompted a quit
-        print("\n*** You have chosen to end the program. Good bye!")
+        print("*** Finished quiz. Good bye!")
 
 
     def askQuestion(self):
@@ -385,9 +388,18 @@ class QuizMaster:
 
         # Get random card from deck, ask its question.
         # The 'ask' method returns True or False, where False means
-        # the user wants to quit the program (not answer any more questions)
-        rand_key = random.choice(list(self.current_deck.library.keys()))
-        return self.current_deck[rand_key].ask()
+        # either that the user herself chose to finish the quiz and quit the program
+        # or that there are no more questions in the deck (all have been answered already)
+        qKeys = list(self.current_deck.library.keys())
+        # empty list means exhausted deck
+        if not qKeys:
+          print("\n*** You have answered all questions in the deck!")
+          return False
+
+        rand_key = random.choice(qKeys)
+        # ask question, by popping question card from deck (the popping assures the card is removed from the deck and not asked again later)
+        return self.current_deck.library.pop(rand_key).ask()
+
 
     def addQuestion(self):
         if g_DEBUG: print("Inside QuizMaster::addQuestion()")
