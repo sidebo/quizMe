@@ -166,3 +166,8 @@ C: qft,physics,particles
 Q: What is Bhabha scattering?
 A: -
 C: qft,physics,particles
+
+Q: What is impact factor?
+A: A measure of the average number of citations an article in a specific journal gets. IF for a specific year y is computed from the two preceding years (N_cit_y-1 + N_cit_y-2)/(N_pub_y-1 + N_pub_y-2)
+C: research,physics
+
