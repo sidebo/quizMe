@@ -171,3 +171,10 @@ Q: What is impact factor?
 A: A measure of the average number of citations an article in a specific journal gets. IF for a specific year y is computed from the two preceding years (N_cit_y-1 + N_cit_y-2)/(N_pub_y-1 + N_pub_y-2)
 C: research,physics
 
+Q: Write down the gauge transformation of the photon field.
+A: Amu’ = Amu + deltamu f (f any function of x)
+C: qft,physics,particles,photons,QED
+
+Q: Is the EM interaction parity conserving?
+A: Yes; No; Sometimes (it depends on the type of interaction); -
+C: qft,physics,particles,photons,QED
