@@ -178,3 +178,7 @@ C: qft,physics,particles,photons,QED
 Q: Is the EM interaction parity conserving?
 A: Yes; No; Sometimes (it depends on the type of interaction); -
 C: qft,physics,particles,photons,QED
+
+Q: When and where were the intermediate vector bosons (W and Z) discovered? Bonus points for how. 
+A: WRITE ME COMPLETELY At CERN 1983 (UA1?), how?
+C: physics,particles,qft
