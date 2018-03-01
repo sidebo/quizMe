@@ -159,12 +159,12 @@ Q: What is the Lorenz gauge condition?
 A: dmuAmu = 0
 C: qft,physics,particles
 
-Q: Write down the interaction lagrangian for QED
-A: -
+Q: Write down the interaction lagrangian density for QED
+A: e * Psibar Across Psi
 C: qft,physics,particles
 
 Q: What is Bhabha scattering?
-A: -
+A: positron+electron -> positron+electron; 2*electron -> 2*electron; 2*positron -> 2*positron; electron+proton -> electron+proton
 C: qft,physics,particles
 
 Q: What is impact factor?
@@ -182,3 +182,11 @@ C: qft,physics,particles,photons,QED
 Q: When and where were the intermediate vector bosons (W and Z) discovered? Bonus points for how. 
 A: WRITE ME COMPLETELY At CERN 1983 (UA1?), how?
 C: physics,particles,qft
+
+Q: Express the mass of the W boson in terms of the weak coupling constant and the Higgs vev.
+A: mW = g*vev/2 
+C: qft,physics,particles,higgs
+
+Q: State the relation between the SU(2) weak coupling constant, the U(1) hypercharge coupling constant and the electric charge.
+A: g*sin(theta) = g’cos(theta) = e
+C: qft,physics,particles
