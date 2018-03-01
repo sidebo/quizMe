@@ -190,3 +190,11 @@ C: qft,physics,particles,higgs
 Q: State the relation between the SU(2) weak coupling constant, the U(1) hypercharge coupling constant and the electric charge.
 A: g*sin(theta) = g’cos(theta) = e
 C: qft,physics,particles
+
+Q: What is the relation between electric charge, third component of weak isospin and hypercharge?
+A: Y = Q/e - I3; Y = Q/e + I3; Y = -Q/e + I3; Y = -(Q/e + I3)
+C: qft,physics,particles
+
+Q: What is the value of hypercharge for the Higgs field (it’s necessary to assure it’s U(1) invariant and leaving the photon massless)?
+A: 1/2; 1; -1/2; -1
+C: qft,physics,particles,higgs
