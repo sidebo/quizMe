@@ -206,3 +206,15 @@ C: qft,physics,particles,electroweak
 Q: Write down the propagator of the W and the Z bosons.
 A: iDf = i(-metric + k_a*k_b/m_V^2) / (k^2 - m_V^2 + i*epsilon)
 C: qft,physics,particles,electroweak
+
+Q: Write down the commutation relations for the Pauli spin matrices tau_i.
+A: [tau_i, tau_j] = 2i epsilon_ijk * tau_k
+C: qft,physics,particles,electroweak,spin
+
+Q: Derive the Noether current for U(1) chiral transformation psi’=psi*exp(i*theta*gamma5) and show that only in the massless limit does is the current conserved.
+A: See Problem 3 at http://scipp.ucsc.edu/~haber/ph217/qftsol3_16.pdf
+C: qft,physics,particles
+
+Q: Is it true that e^A * e^B = e^(A+B), where the exp denotes serial expansion and A and B are matrices?
+A: Yes; No; Sometimes (depends on matrix dimensions); Only if A and B commutes
+C: qft
