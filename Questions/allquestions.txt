@@ -218,3 +218,20 @@ C: qft,physics,particles
 Q: Is it true that e^A * e^B = e^(A+B), where the exp denotes serial expansion and A and B are matrices?
 A: Yes; No; Sometimes (depends on matrix dimensions); Only if A and B commutes
 C: qft
+
+Q: What does the integral_{ exp{i(p-p’)x dx } over all x equal?
+A: Dirac delta (p-p’); 0; p-p’; divergent
+C: qft,mathematics
+
+Q: Two space-time points x and y are called “space-like” if (this means they’re causally disconnected, i.e. separated by longer distance than can be travelled by light during time separation between the points)
+A: (x-y)^2 < 0; (x-y)^2 > 0; (x-y)^2 = 0; (x-y)=0
+C: qft,physics
+
+Q: How do we treat Higgs->tautau->leptons in the HWW analysis?
+A: Fixed to SM XS and treated as background? (not fitted) CHECK ME
+C: physics,particles,higgs,HWW,ATLAS
+
+Q: H->WW: Is there a WW CR for the VBF analysis? Motivate.
+A: No, it is difficult to get it pure (it’s very top contaminated). It has been investigated but it was found to not add any significance.
+C: physics,particles,higgs,HWW,ATLAS
+
