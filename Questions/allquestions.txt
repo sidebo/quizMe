@@ -235,3 +235,7 @@ Q: H->WW: Is there a WW CR for the VBF analysis? Motivate.
 A: No, it is difficult to get it pure (it’s very top contaminated). It has been investigated but it was found to not add any significance.
 C: physics,particles,higgs,HWW,ATLAS
 
+Q: H->WW: How do we make our systematic breakdown tables (like table 5 in the CONF note)? Do the sum in quadrature add up to the total unc.?
+A: WRITE ME (fit with fixed/floating nuisance parameters, unconditional fit etc.)
+C: physics,particles,higgs,HWW,ATLAS
+
