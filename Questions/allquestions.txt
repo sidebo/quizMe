@@ -239,3 +239,18 @@ Q: H->WW: How do we make our systematic breakdown tables (like table 5 in the CO
 A: WRITE ME (fit with fixed/floating nuisance parameters, unconditional fit etc.)
 C: physics,particles,higgs,HWW,ATLAS
 
+Q: What is the bunch revolution frequency of the LHC?
+A: 11 kHz; 11 Hz; 1100 Hz; 110 kHz
+C: physics,particles,LHC
+
+Q: What is the relative strength of W and Z production XSs at LHC?
+A: sigma(W) ~ 10*sigma(Z). TODO: Explain why
+C: physics,particles,LHC,ATLAS
+
+Q: Who received the Nobel Prize in physics in 1958, and for what? Hint: blue light
+A: Igor Tamm, Ilya Frank and Pavel Cherenkov (all Soviet), “for the discovery and the interpretation of the Cherenkov effect”. Cherenkov first observed it in 1934 when gamma rays went through a water flask. It was theoretically developed by Frank and Tamm three years later. The Cherenkov effect is similar to the sonic boom or a boat in water: if the particle moves faster than the speed of light in the medium, it produces a shock front of light, just like a plane in air produces a sound wave front or a boat through water a wave front.
+C: physics,NPP,particles
+
+Q: Explain how the LUCID detector works and what is its purpose.
+A: Cherenkov detector with aluminium tubes filled with C4F10 gas. Sitting 17 m from IP at 5.6 < |eta| < 6.0. Measures luminosity, online, bunch-by-bunch. When a signal above threshold is registered a hit is registered. Typically uses some event-based counting, I believe.
+C: ATLAS,luminosity,LHC
