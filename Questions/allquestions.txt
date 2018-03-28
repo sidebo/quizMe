@@ -254,3 +254,7 @@ C: physics,NPP,particles
 Q: Explain how the LUCID detector works and what is its purpose.
 A: Cherenkov detector with aluminium tubes filled with C4F10 gas. Sitting 17 m from IP at 5.6 < |eta| < 6.0. Measures luminosity, online, bunch-by-bunch. When a signal above threshold is registered a hit is registered. Typically uses some event-based counting, I believe.
 C: ATLAS,luminosity,LHC
+
+Q: Who got the noble prize in physics 1979 and for what?
+A: Weinberg for “A Model of Leptons”; Feynman for QED; Cherenkov for his radiation; Gell-Mann for particle classification and interactions
+C: QFT,particles,physics,NPP
