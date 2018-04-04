@@ -121,7 +121,7 @@ C: politics,war,finland
 
 Q: How does the Higgs couple to bosons and fermions?
 A: The coupling is proportional to m^2 for bosons, to m for fermions.
-C: physics,particles,higgs,QFT
+C: physics,particles,higgs,qft
 
 Q: The OZI rule states that decay processes that can be “snipped” by cutting only gluon lines are (hint: asymptotic freedom)
 A: suppressed (leading to longer lifetime); forbidden (cannot decay through that process); enhanced (leading to shorter lifetime); associated with states of high mass
@@ -261,4 +261,16 @@ C: qft,particles,physics,NPP
 
 Q: Why are there no Flavour-Changing-Neutral-Currents (like b->s via Z exchange) in the SM?
 A: Conservation of strangeness (and top/bottom-ness?) forbids c->d-like decays. The GIM mechanism strongly suppresses FCNC in loops (but they do indeed exist).
-C: QFT,particles,physics,HWW,ATLAS
+C: qft,particles,physics,HWW,ATLAS
+
+Q: What was found ‘strange’ about strange particles?
+A: They are produced on timescale 10^-23 s, but decay on timescale 10^-10 s. Later found to be strong production and weak decay.
+C: qft,particles,physics,HWW,ATLAS
+
+Q: The weak interaction conserves strangeness.
+A: False; True; It depends; -
+C: qft,particles,physics,HWW,ATLAS
+
+Q: The strong interaction conserves strangeness.
+A: True; False;  It depends; -
+C: qft,particles,physics,HWW,ATLAS
