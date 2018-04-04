@@ -257,4 +257,8 @@ C: ATLAS,luminosity,LHC
 
 Q: Who got the noble prize in physics 1979 and for what?
 A: Weinberg for “A Model of Leptons”; Feynman for QED; Cherenkov for his radiation; Gell-Mann for particle classification and interactions
-C: QFT,particles,physics,NPP
+C: qft,particles,physics,NPP
+
+Q: Why are there no Flavour-Changing-Neutral-Currents (like b->s via Z exchange) in the SM?
+A: Conservation of strangeness (and top/bottom-ness?) forbids c->d-like decays. The GIM mechanism strongly suppresses FCNC in loops (but they do indeed exist).
+C: QFT,particles,physics,HWW,ATLAS
