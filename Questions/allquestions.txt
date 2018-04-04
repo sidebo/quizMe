@@ -261,16 +261,25 @@ C: qft,particles,physics,NPP
 
 Q: Why are there no Flavour-Changing-Neutral-Currents (like b->s via Z exchange) in the SM?
 A: Conservation of strangeness (and top/bottom-ness?) forbids c->d-like decays. The GIM mechanism strongly suppresses FCNC in loops (but they do indeed exist).
-C: qft,particles,physics,HWW,ATLAS
+C: qft,particles,physics
 
 Q: What was found ‘strange’ about strange particles?
 A: They are produced on timescale 10^-23 s, but decay on timescale 10^-10 s. Later found to be strong production and weak decay.
-C: qft,particles,physics,HWW,ATLAS
+C: qft,particles,physics
 
 Q: The weak interaction conserves strangeness.
 A: False; True; It depends; -
-C: qft,particles,physics,HWW,ATLAS
+C: qft,particles,physics,HWW
 
 Q: The strong interaction conserves strangeness.
 A: True; False;  It depends; -
-C: qft,particles,physics,HWW,ATLAS
+C: qft,particles,physics
+
+Q: What sparked the ‘November Revolution’ of particle physics? The discovery of
+A: J/Psi (ccbar); Upsilon (bbbar); Omega^- (sss); top quark
+C: qft,particles,physics
+
+Q: How did Weinberg+Glashow+Salam predict the W and Z masses?
+A: WRITE ME
+C: qft,particles,physics
+
