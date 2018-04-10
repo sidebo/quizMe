@@ -283,3 +283,10 @@ Q: How did Weinberg+Glashow+Salam predict the W and Z masses?
 A: WRITE ME
 C: qft,particles,physics
 
+Q: What is the divergence theorem and what does is its physical interpretation?
+A: Divergence theorem = Gauss’ theorem. http://mathworld.wolfram.com/DivergenceTheorem.html. States that the rate of change of density of whatever quantity is described by the field in question in a volume, is coming from flow in/out of that volume.
+C: physics,math,qft,fields
+
+Q: What is diamagnetism? Give examples of materials that are diamagnetic.
+A: A material which is repulsive upon applying an external magnetic field. This is in contrast to para- or ferromagnets. 
+C: physics,fields
