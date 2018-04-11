@@ -290,3 +290,7 @@ C: physics,math,qft,fields
 Q: What is diamagnetism? Give examples of materials that are diamagnetic.
 A: A material which is repulsive upon applying an external magnetic field. This is in contrast to para- or ferromagnets. One consequence of this property is that diamagnets can be made to levitate. Superconductors are (perfect, very strong) diamagnets, while other materials with weaker diamagnetic properties are e.g. carbon, bismuth, lead, water (frogs have been made to levitate, awarded the Ig-nobel prize) 
 C: physics,fields
+
+Q: What is the branching fraction H->WW?
+A: about 20%; about 50%; about 80%; about 1%
+C: physics,qft,particles,HWW,ATLAS
