@@ -294,3 +294,15 @@ C: physics,fields
 Q: What is the branching fraction H->WW?
 A: about 20%; about 50%; about 80%; about 1%
 C: physics,qft,particles,HWW,ATLAS
+
+Q: Give the formula relating particle decay width with decay time.
+A: tau=hbar/Gamma; tau=hbar*Gamma; tau=hc/Gamma; tau=Gamma*hc
+C: physics,qft,particles,HWW,ATLAS
+
+Q: What’s the Higgs decay width and decay time?
+A: Gamma~4e-3 GeV, results in in ~10^-22 s decay time.
+C: physics,qft,particles,HWW,ATLAS
+
+Q: Draw the Feynman diagrams for QCD and EW production, respectively, of WW+2j production (relevant for WW in VBF)
+A: *I think* the second and third plots here is what’s interesting: http://inspirehep.net/record/1315437/plots
+C: qft,particles,HWW,ATLAS,physics
