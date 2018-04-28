@@ -306,3 +306,11 @@ C: physics,qft,particles,HWW,ATLAS
 Q: Draw the Feynman diagrams for QCD and EW production, respectively, of WW+2j production (relevant for WW in VBF)
 A: *I think* the second and third plots here is what’s interesting: http://inspirehep.net/record/1315437/plots
 C: qft,particles,HWW,ATLAS,physics
+
+Q: Who invented the mT variable?
+A: UA1; OPAL; D0; ATLAS
+C: HWW,ATLAS
+
+Q: What is the origin of our electron “Other” fakes in HWW?
+A: They are mostly photons, which in turn was studied with the MCTruthClassifier to to come in part from Bremsstrahlung, pi0 decays and “Undefined origin”. 
+C: HWW,fakes
