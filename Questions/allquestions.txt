@@ -314,3 +314,7 @@ C: HWW,ATLAS
 Q: What is the origin of our electron “Other” fakes in HWW?
 A: They are mostly photons, which in turn was studied with the MCTruthClassifier to to come in part from Bremsstrahlung, pi0 decays and “Undefined origin”. 
 C: HWW,fakes
+
+Q: Who obtained the correct mathematical expression for black-body radiation in 1901 by assuming quantised energy levels of oscillators in the black-body cavity (sparking the era of modern, quantum, physics)? Hint: His professor Philipp von Jolly said about the prospects in physics that “in this field, almost everything is settled, and only minor holes need to be filled”)
+A: Max Planck; Albert Einstein; James Clerk Maxwell, Ludwig Boltzmann
+C: physics,particles
