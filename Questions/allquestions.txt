@@ -56,7 +56,7 @@ A: Technically, things are passed by value, however, names in python are always 
 C: programming,python
 
 Q: What is the ISOLDE experiment?
-A: A magnetic monopole experiment at CERN; a neutrino experiment in the USA; a dark matter experiment in Australia; A nuclear physics experiment at CERN studying rare nuclei by  firing protons to a target and extracting the rare nuclei with a mass spectrometer (magnetic field) and keeping them in a ring (watching them decay, I guess)
+A: A CERN facility for nuclear physics experiments studying rare, radioactive nuclei. It can perhaps be thought of as an exotic LHC, providing a radioactive beam for different experiments to use; A magnetic monopole experiment at CERN; a neutrino oscillation experiment in the USA; a dark matter experiment in Australia
 C: physics,LHC
 
 Q: What does TH1::GetEntries() return?
