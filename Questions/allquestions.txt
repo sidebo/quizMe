@@ -244,7 +244,7 @@ A: 11 kHz; 11 Hz; 1100 Hz; 110 kHz
 C: physics,particles,LHC
 
 Q: What is the relative strength of W and Z production XSs at LHC?
-A: sigma(W) ~ 10*sigma(Z). TODO: Explain why
+A: sigma(W) ~ 6*sigma(Z) (see https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CombinedSummaryPlots/SM/). I suppose this must be due to PDFs? And possible a factor two for charge.
 C: physics,particles,LHC,ATLAS
 
 Q: Who received the Nobel Prize in physics in 1958, and for what? Hint: blue light
