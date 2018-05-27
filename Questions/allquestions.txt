@@ -330,3 +330,7 @@ C: physics,particles
 Q: Draw the relevant Feynman diagrams showing that there’s no leading order gg or qg process producing WWjj final state with same sign W:s (this is why same-sign WW is good for measuring VBS and quartic coupling, related to unitarity of VBS XS)
 A: See page 35 of this thesis https://deepblue.lib.umich.edu/bitstream/handle/2027.42/111502/liululu_1.pdf?sequence=1&isAllowed=y
 C: physics,particles,qft,HWW,fields,higgs
+
+Q: What’s the total unc. on the Higgs ggF and VBF XS’s as measured by us?
+A: 17% (ggF) and 59% (VBF); 6% (ggF) and 102% (VBF); 35% (ggF) and 30% (VBF); 65% (ggF) and 15% (VBF)
+C: physics,particles,HWW,higgs
