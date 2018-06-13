@@ -319,7 +319,7 @@ Q: Who obtained the correct mathematical expression for black-body radiation in 
 A: Max Planck; Albert Einstein; James Clerk Maxwell, Ludwig Boltzmann
 C: physics,particles
 
-Q: How often to taus decay hadronically?
+Q: How often do taus decay hadronically?
 A: 65%; 85%; 35%; 0%
 C: physics,particles
 
@@ -334,3 +334,7 @@ C: physics,particles,qft,HWW,fields,higgs
 Q: What’s the total unc. on the Higgs ggF and VBF XS’s as measured by us?
 A: 17% (ggF) and 59% (VBF); 6% (ggF) and 102% (VBF); 35% (ggF) and 30% (VBF); 65% (ggF) and 15% (VBF)
 C: physics,particles,HWW,higgs
+
+Q: In the likelihood one models dependence on nuisance parameters (NPs) with constraint terms. A constraint term is (see /Users/edvinsidebo/cernbox/courses_and_schools/Courses/statisticsCopenhagen/slides-lectures-Vekerke/Slides--verkerke-nbi_stats_lecture4.pdf)
+A: not a pdf in the NP (but still constrains the NP): should be thought of as a simplified calibration measurement (i.e. a likelihood in itself); a pdf in the NP; always a Gaussian; always a Poisson
+C: HWW,statistics
