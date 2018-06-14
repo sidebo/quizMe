@@ -350,3 +350,7 @@ C: HWW,statistics
 Q: State Wilk’s theorem.
 A: distribution of –log(λμ) is asymptotically distributed as a χ2 with Nparam degrees of freedom (some regularity conditions apply), where λμ is likelihood ratio mu over muhat.
 C: HWW,statistics
+
+Q: In constructing confidence interval on measured parameter (i.e. uncertainties on parameter), one constructs the confidence belt. The confidence belt is
+A: A property of the model; a property of the data; a property of both the model and the data; Depends on the type of measurement
+C: HWW,statistics
