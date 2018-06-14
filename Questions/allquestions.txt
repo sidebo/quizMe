@@ -346,3 +346,7 @@ C: HWW,statistics
 Q: In hypothesis testing, what are q_0, q_mu and tilde{q}_mu?
 A: WRITE ME (see Eur Phys J C 2011 71:1554)
 C: HWW,statistics
+
+Q: State Wilk’s theorem.
+A: distribution of –log(λμ) is asymptotically distributed as a χ2 with Nparam degrees of freedom (some regularity conditions apply), where λμ is likelihood ratio mu over muhat.
+C: HWW,statistics
