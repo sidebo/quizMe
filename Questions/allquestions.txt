@@ -338,3 +338,11 @@ C: physics,particles,HWW,higgs
 Q: In the likelihood one models dependence on nuisance parameters (NPs) with constraint terms. A constraint term is (see /Users/edvinsidebo/cernbox/courses_and_schools/Courses/statisticsCopenhagen/slides-lectures-Vekerke/Slides--verkerke-nbi_stats_lecture4.pdf)
 A: not a pdf in the NP (but still constrains the NP): should be thought of as a simplified calibration measurement (i.e. a likelihood in itself); a pdf in the NP; always a Gaussian; always a Poisson
 C: HWW,statistics
+
+Q: What is the Neyman-Pearson lemma?
+A: WRITE ME [I think optimal test statistic, given no nuisance parameters… and possibly other assumptions]
+C: HWW,statistics
+
+Q: In hypothesis testing, what are q_0, q_mu and tilde{q}_mu?
+A: WRITE ME (see Eur Phys J C 2011 71:1554)
+C: HWW,statistics
