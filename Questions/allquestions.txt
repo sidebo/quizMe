@@ -354,3 +354,7 @@ C: HWW,statistics
 Q: In constructing confidence interval on measured parameter (i.e. uncertainties on parameter), one constructs the confidence belt. The confidence belt is
 A: A property of the model; a property of the data; a property of both the model and the data; Depends on the type of measurement
 C: HWW,statistics
+
+Q: What type of measurement at the LHC can constraint parton shower parameters (and are thus used to construct tunes)?
+A: One example is pT(Z) in DY(Z)->ll measurements. ISR determines the low-pT regime and is thus sensitive to PS parameters. See https://link.springer.com/content/pdf/10.1007%2FJHEP09%282014%29145.pdf
+C: HWW,ATLAS,LHC
