@@ -358,3 +358,7 @@ C: HWW,statistics
 Q: What type of measurement at the LHC can constraint parton shower parameters (and are thus used to construct tunes)?
 A: One example is pT(Z) in DY(Z)->ll measurements. ISR determines the low-pT regime and is thus sensitive to PS parameters. See https://link.springer.com/content/pdf/10.1007%2FJHEP09%282014%29145.pdf
 C: HWW,ATLAS,LHC
+
+Q: Explain the concept of renormalisation within QFT.
+A: Briefly: diagrams with loops introduce divergences (momentum integrated to infty). These divergences can be absorbed into the definition of charge,mass,or whatever quantity considered -> renormalised charge,mass… depending on Q^2 —> running of coupling constants. Alternatively: divergences appear because we use the wrong “bare” charge when we should use renormalised (Q^2 dependent). Choice of scale is arbitrary; if full series is computed the same result is obtained regardless. For finite series, we have to chose. I think something like mu^2 ~ 100^2 GeV^2 is typically used, but it is also set dynamically per event (see e.g. https://cp3.irmp.ucl.ac.be/projects/madgraph/wiki/FAQ-General-13)
+C: physics,particles,qft,HWW,fields
