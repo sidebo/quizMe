@@ -366,3 +366,7 @@ C: physics,particles,qft,HWW,fields
 Q: Explain the concept of a pomeron, and how it appeared historically. Bonus points for the odderon.
 A: Pomeron=a special Reggeon trajectory. A trajectory is a straight line in M^2 vs J (ang mom) plot, on which hadrons were observed to line up. To explain a rising trend in XS vs s one introduced hypothetical pomeron as such a trajectory, CP-even with quantum numbers of the vacuum. Since it doesn’t carry colour (or any other charge), two protons exchanging a pomeron does not produce a bunch of pions in between, rather protons may or may not be broken up and found in forward regions. Pomeron dominates diffractive XS which is something like 30% at LHC. At HERA one could measure the pomeron content in quark-gluon picture and found it’s gluon dominated (it can actually be modelled well as gluon-gluon state. Odderon is the CP-odd counterpart (don’t know why it’s expected to exist, symmetry reasons?), not yet found. 
 C: physics,particles,QCD,minbias
+
+Q: The LSP is typically taken as the lightest
+A: neutralino; higgsino; gluino; slepton
+C: physics,particles,qft,SUSY
