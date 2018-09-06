@@ -386,3 +386,7 @@ C: physics,particles,qft,LHC
 Q: Name an experimental evidence for the existence of the three colours.
 A: Measurements at e+e- colliders of sigma(e+e- —> hadrons)/sigma(e+e- —> muons) show a factor three is needed for good agreement. See slide 11 in http://www.roma1.infn.it/people/luci/fns/2017/Colour_QCD.pdf or Fig. 8.4 in Griffiths.
 C: physics,particles,qft,QCD
+
+Q: From where do we get the most stringent results on DM content? (hint: see https://lambda.gsfc.nasa.gov/education/graphic_history/ and the plotter, and these nice slides http://folk.uio.no/hke/AST5220/v11/AST5220_2_2011.pdf)
+A: CMB (power spectrum); galactic rotational curves; Grav. lensing (e.g. Bullet cluster); Type 1a supernova distance measurements;
+C: physics,cosmology,particles,DM,CMB
