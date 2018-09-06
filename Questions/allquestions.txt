@@ -388,5 +388,5 @@ A: Measurements at e+e- colliders of sigma(e+e- —> hadrons)/sigma(e+e- —> mu
 C: physics,particles,qft,QCD
 
 Q: From where do we get the most stringent results on DM content? (hint: see https://lambda.gsfc.nasa.gov/education/graphic_history/ and the plotter, and these nice slides http://folk.uio.no/hke/AST5220/v11/AST5220_2_2011.pdf)
-A: CMB (power spectrum); galactic rotational curves; Grav. lensing (e.g. Bullet cluster); Type 1a supernova distance measurements;
+A: CMB (power spectrum); galactic rotational curves; Grav. lensing (e.g. Bullet cluster); Type 1a supernova distance measurements
 C: physics,cosmology,particles,DM,CMB
