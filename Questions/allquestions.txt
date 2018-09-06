@@ -370,3 +370,19 @@ C: physics,particles,QCD,minbias
 Q: The LSP is typically taken as the lightest
 A: neutralino; higgsino; gluino; slepton
 C: physics,particles,qft,SUSY
+
+Q: The Higgs->tautau is studied by considering final states with
+A: all combinations (lep-lep,leo-had,had-had); Lep-had+lep-lep; lep-lep only; had-had only
+C: physics,particles,Higgs,ATLAS
+
+Q: The number of free parameters in the SM, assuming massless neutrinos, are
+A: 19; 16; 22; 32
+C: physics,particles,qft
+
+Q: Name an experimental signature supporting the existence of gluons.
+A: Three-jet events
+C: physics,particles,qft,LHC
+
+Q: Name an experimental evidence for the existence of the three colours.
+A: Measurements at e+e- colliders of sigma(e+e- —> hadrons)/sigma(e+e- —> muons) show a factor three is needed for good agreement. See slide 11 in http://www.roma1.infn.it/people/luci/fns/2017/Colour_QCD.pdf or Fig. 8.4 in Griffiths.
+C: physics,particles,qft,QCD
