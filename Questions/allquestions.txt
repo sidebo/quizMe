@@ -373,7 +373,7 @@ C: physics,particles,qft,SUSY
 
 Q: The Higgs->tautau is studied by considering final states with
 A: all combinations (lep-lep,leo-had,had-had); Lep-had+lep-lep; lep-lep only; had-had only
-C: physics,particles,Higgs,ATLAS
+C: physics,particles,higgs,ATLAS
 
 Q: The number of free parameters in the SM, assuming massless neutrinos, are
 A: 19; 16; 22; 32
