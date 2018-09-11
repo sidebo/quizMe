@@ -35,7 +35,7 @@ Q: What is the GZK cutoff?
 A: The Greisen–Zatsepin–Kuzmin limit, postulating that cosmic rays should have energies below 5e19 eV (about 8 joules). The reason being that such protons should interact with CMB photons and produce pions via the delta resonance, i.e. gamma_CMB + proton -> Delta^+ -> p + pi^0. However, cosmic rays with energies above this limit have been observed. Not many though. One was measured to have energy 3.12e20 which is the same kinetic energy as carried by a baseball at 60 mph (100 km/h) [QUESTION: what about other particles than protons — are there corresponding cut-offs for photons, electrons?]
 C: CosmicRays, physics
 
-Q: What is the dependence of angle of scattering on particle momentum for multiple scattering? (And what implications does this have for e.g. low-momentum minbias tracks?) See reference http://pdg.lbl.gov/2015/reviews/rpp2015-rev-passage-particles-matter.pdf .
+Q: What is the dependence of width(angle of scattering) on particle momentum for multiple scattering? (And what implications does this have for e.g. low-momentum minbias tracks?) See reference http://pdg.lbl.gov/2015/reviews/rpp2015-rev-passage-particles-matter.pdf .
 A: 1/(beta*c*p); beta/(c*p); c*p/beta; c*p*beta
 C: minbias,tracking,physics,ATLAS
 
@@ -252,7 +252,7 @@ A: Igor Tamm, Ilya Frank and Pavel Cherenkov (all Soviet), “for the discovery 
 C: physics,NPP,particles
 
 Q: Explain how the LUCID detector works and what is its purpose.
-A: Cherenkov detector with aluminium tubes filled with C4F10 gas. Sitting 17 m from IP at 5.6 < |eta| < 6.0. Measures luminosity, online, bunch-by-bunch. When a signal above threshold is registered a hit is registered. Typically uses some event-based counting, I believe.
+A: Cherenkov detector with aluminium tubes filled with C4F10 gas. Sitting 17 m from IP at 5.6 < |eta| < 6.0. Charged particles generates Cherenkov light, and more light is created for particles from the IP because they have a longer travel path through the tube (the signal is required to be above a threshold, this will suppress smaller signals from background). The detector measures luminosity, online, bunch-by-bunch. Uses different event-based counting algorithms. 
 C: ATLAS,luminosity,LHC
 
 Q: Who got the noble prize in physics 1979 and for what?
