@@ -402,3 +402,15 @@ C: physics,ATLAS
 Q: Describe track momentum resolution for the ATLAS ID (bonus point for commenting on the relation to the muon system)
 A: See formula in Giulias lic http://kth.diva-portal.org/smash/get/diva2:1171870/FULLTEXT01.pdf. The resolution divided by pT has two terms, one pT dependent and one constant. The former is =0.05%*pT[GeV], comes from intrinsic resolution of measurement points, the latter=1% comes from multiple scattering. The former degrades with pT since high-pT<->straight track<->poorer curvature measurement. At pT=20 GeV the two contributions are equal. For muons, which pass the MS in which the magnetic field is lower but the layers further apart. For very high-pT muons the MS provides the best resolution, for low-pT (HWW analysis) the ID does.
 C: physics,ATLAS,HWW,tracking
+
+Q: Explain the WIMP miracle.
+A: My rough take on it: To get the “correct” relic abundance of DM in the early universe, when DM “froze out” from ordinary matter, we can estimate the self-annihilation XS of DM. Correct value = measured value ~0.1, implying the XS equals something typical of the weak interaction.
+C: physics,cosmology,particles,DM
+
+Q: Who got the NPP 2008?
+A: Kobayashi, Maskawa (1/4) each and Nambu, the former for predicting third generation of quarks (needed to explain observed CP violation in weak interactions) and the latter for work on spont. symm breaking 
+C: physics,particles,NPP
+
+Q: What’s the cosmological constant problem?
+A: The fact that if you calculate the energy from quantum fluctuations you get a value which is vastly larger than what we observe based on the expansion of the universe. If I understand well, boson fields contribute positively, fermion fields negatively —> large negative energy —> expansion (rather than contraction). 
+C: physics,particles,fields
