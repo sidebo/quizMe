@@ -412,5 +412,9 @@ A: Kobayashi, Maskawa (1/4) each and Nambu, the former for predicting third gene
 C: physics,particles,NPP
 
 Q: What’s the cosmological constant problem?
-A: The fact that if you calculate the energy from quantum fluctuations you get a value which is vastly larger than what we observe based on the expansion of the universe. If I understand well, boson fields contribute positively, fermion fields negatively —> large negative energy —> expansion (rather than contraction). 
+A: The fact that if you calculate the energy from quantum fluctuations you get a value which is vastly larger than what we observe based on the expansion of the universe. Expected based on planck scale yields energy 120 orders of magnitude larger than observed. An incredible fine tuning from contributions from physics not yet known would be needed. No symmetry is known which could explain the cancellation. (If I understand well, boson fields contribute positively, fermion fields negatively —> more fermions than bosons —> negative energy —> expansion (rather than contraction))
 C: physics,particles,fields
+
+Q: Name a way to obtain the Planck scale (mass) and length.
+A: One way is to consider the gravitational energy at which particle-antiparticle pairs would appear spontaneously, i.e. where classical gravity would break down. This yields about the planck mass (~10^19 GeV) and the planck length (10^-35 m). A different “characterisation” is to consider a black hole with mass M_Planck, for which the Schwarzild radius would be equal to its Compton wavelength. 
+C: physics,gravity,particles,fields
