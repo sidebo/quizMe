@@ -418,3 +418,11 @@ C: physics,particles,fields
 Q: Name a way to obtain the Planck scale (mass) and length.
 A: One way is to consider the gravitational energy at which particle-antiparticle pairs would appear spontaneously, i.e. where classical gravity would break down. This yields about the planck mass (~10^19 GeV) and the planck length (10^-35 m). A different “characterisation” is to consider a black hole with mass M_Planck, for which the Schwarzild radius would be equal to its Compton wavelength. 
 C: physics,gravity,particles,fields
+
+Q: The ATLAS barrel hadronic calorimeter consists of
+A: Steel and scintillator tiles; Copper and scintillator tiles; Steel and LAr; Copper and LAr
+C: physics,ATLAS,HWW
+
+Q: Draw the Feynman diagram for proton decay to e+ + pi0 (present in GUTs such as SU(5) theory by Georgi and Glashow, see e.g. https://arxiv.org/pdf/0912.5375.pdf):
+A: u-anti-u fuse via hypothetical particle X, decay to electron and anti-down
+C: physics,particles,fields
