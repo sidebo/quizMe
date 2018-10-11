@@ -173,11 +173,11 @@ C: research,physics
 
 Q: Write down the gauge transformation of the photon field.
 A: Amu’ = Amu + deltamu f (f any function of x)
-C: qft,physics,particles,photons,QED
+C: qft,physics,particles
 
 Q: Is the EM interaction parity conserving?
 A: Yes; No; Sometimes (it depends on the type of interaction); -
-C: qft,physics,particles,photons,QED
+C: qft,physics,particles
 
 Q: When and where were the intermediate vector bosons (W and Z) discovered? Bonus points for how. 
 A: WRITE ME COMPLETELY At CERN 1983 (UA1?), how?
@@ -189,7 +189,7 @@ C: qft,physics,particles,higgs
 
 Q: State the relation between the SU(2) weak coupling constant, the U(1) hypercharge coupling constant and the electric charge.
 A: g*sin(theta) = g’cos(theta) = e
-C: qft,physics,particles,electroweak
+C: qft,physics,particles
 
 Q: What is the relation between electric charge, third component of weak isospin and hypercharge?
 A: Y = Q/e - I3; Y = Q/e + I3; Y = -Q/e + I3; Y = -(Q/e + I3)
@@ -197,19 +197,19 @@ C: qft,physics,particles
 
 Q: What is the value of hypercharge for the Higgs field (it’s necessary to assure it’s U(1) invariant and leaving the photon massless)?
 A: 1/2; 1; -1/2; -1
-C: qft,physics,particles,higgs,electroweak
+C: qft,physics,particles
 
 Q: What is the difference in terms of renormalizability of QED and of IVB theory (Ws but no Zs, not formulated as a gauge theory)?
 A: QED has three normalisation constants which can be absorbed into the charge and mass of the electron. The nr of normalisation constants in IVB theory grows with the nr of vertices in the diagram, and is non-renormalizable (renormalizibility is restored by formulating the theory as a gauge theory, which implies the existence of the Z0 boson)
-C: qft,physics,particles,electroweak
+C: qft,physics,particles
 
 Q: Write down the propagator of the W and the Z bosons.
 A: iDf = i(-metric + k_a*k_b/m_V^2) / (k^2 - m_V^2 + i*epsilon)
-C: qft,physics,particles,electroweak
+C: qft,physics,particles
 
 Q: Write down the commutation relations for the Pauli spin matrices tau_i.
 A: [tau_i, tau_j] = 2i epsilon_ijk * tau_k
-C: qft,physics,particles,electroweak,spin
+C: qft,physics,particles
 
 Q: Derive the Noether current for U(1) chiral transformation psi’=psi*exp(i*theta*gamma5) and show that only in the massless limit does is the current conserved.
 A: See Problem 3 at http://scipp.ucsc.edu/~haber/ph217/qftsol3_16.pdf
@@ -229,15 +229,15 @@ C: qft,physics
 
 Q: How do we treat Higgs->tautau->leptons in the HWW analysis?
 A: Fixed to SM XS and treated as background? (not fitted) CHECK ME
-C: physics,particles,higgs,HWW,ATLAS
+C: physics,particles,HWW,ATLAS
 
 Q: H->WW: Is there a WW CR for the VBF analysis? Motivate.
 A: No, it is difficult to get it pure (it’s very top contaminated). It has been investigated but it was found to not add any significance.
-C: physics,particles,higgs,HWW,ATLAS
+C: physics,particles,HWW,ATLAS
 
 Q: H->WW: How do we make our systematic breakdown tables (like table 5 in the CONF note)? Do the sum in quadrature add up to the total unc.?
 A: WRITE ME (fit with fixed/floating nuisance parameters, unconditional fit etc.)
-C: physics,particles,higgs,HWW,ATLAS
+C: physics,particles,HWW,ATLAS
 
 Q: What is the bunch revolution frequency of the LHC?
 A: 11 kHz; 11 Hz; 1100 Hz; 110 kHz
@@ -426,3 +426,15 @@ C: physics,ATLAS,HWW
 Q: Draw the Feynman diagram for proton decay to e+ + pi0 (present in GUTs such as SU(5) theory by Georgi and Glashow, see e.g. https://arxiv.org/pdf/0912.5375.pdf):
 A: u-anti-u fuse via hypothetical particle X, decay to electron and anti-down
 C: physics,particles,fields
+
+Q: About how many radiation lengths does the EM calorimeter comprise?
+A: 23; 5; 14; 38
+C: ATLAS,instrumentation
+
+Q: The muon trigger chambers are
+A: The RPCs and the TGCs; the RPCs and the MDTs; the MDTs and the TGCs; the CSCs and the TGCs
+C: ATLAS,instrumentation
+
+Q: Cecilia Payne-Gaposchkin var
+A: Framstående astronom, första kvinnan att bli professor vid Harvard. Visade att stjärnor innehåller mycket väte (och därmed universum).
+C: physics,astronomy,cosmology
