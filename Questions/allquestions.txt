@@ -438,3 +438,7 @@ C: ATLAS,instrumentation
 Q: Cecilia Payne-Gaposchkin var
 A: Framstående astronom, första kvinnan att bli professor vid Harvard. Visade att stjärnor innehåller mycket väte (och därmed universum).
 C: physics,astronomy,cosmology
+
+Q: What’s the difference between Neyman’s chi-square and Pearson’s chi-square?
+A: Neyman uses measured values to estimate errors, Pearson uses expected values
+C: statistics
