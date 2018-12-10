@@ -442,3 +442,7 @@ C: physics,astronomy,cosmology
 Q: What’s the difference between Neyman’s chi-square and Pearson’s chi-square?
 A: Neyman uses measured values to estimate errors, Pearson uses expected values
 C: statistics
+
+Q: What’s the “bottom-up” and “top-down” approaches, specifically in terms of computer science?
+A: Bottom-up emphasises coding and early testing (“stimulus/data driven” in signal processing/psychology). Top-down means thinking through before and designing core parts before implementation (“theory driven” in signal processing/psychology)
+C: ComputerScience
