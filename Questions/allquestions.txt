@@ -450,3 +450,7 @@ C: ComputerScience
 Q: Stephen Hawking was
 A: British; American; Australian; South African
 C: physics,people
+
+Q: Vad är det “asymmetriska problemet med utgiftstaket”?
+A: Det reglerar statens utgifter (typ en gräns på en treårsperiod), staten får inte spendera mer. Men det gäller bara utgifter, inte brist på inkomster. Alltså inga problem för Reinfeldt att göra jobbskatteavdrag och andra skattesänkningar.
+C: politik,ekonomi
