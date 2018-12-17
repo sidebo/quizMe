@@ -454,3 +454,11 @@ C: physics,people
 Q: Vad är det “asymmetriska problemet med utgiftstaket”?
 A: Det reglerar statens utgifter (typ en gräns på en treårsperiod), staten får inte spendera mer. Men det gäller bara utgifter, inte brist på inkomster. Alltså inga problem för Reinfeldt att göra jobbskatteavdrag och andra skattesänkningar.
 C: politik,ekonomi
+
+Q: Från var kommer jobbskatteavdraget?
+A: Inte Anders Borg. Amerikansk idé (som många andra): ‘tax credit’. Idén är att öka gapet mellan de utan jobb och de som får sitt första jobb, alltså låg inkomst. I USA syftar den just till detta och har därför ett tak (de med högre inkomster får inte jobbskatteavdrag). Då blir den inte så dyr och får en rimlig fördelningsprofil. I Sverige “glömde” Anders Borg taket.
+C: politik,ekonomi
+
+Q: För att streama HD-TV behöver man knappt 10 Mbit/s. Detta är ett mått på
+A: Bandbredd/dataflöde; Latency; Lagringskapacitet; Frekvens
+C: IT,kommunikation,teknik
