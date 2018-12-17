@@ -462,3 +462,7 @@ C: politik,ekonomi
 Q: För att streama HD-TV behöver man knappt 10 Mbit/s. Detta är ett mått på
 A: Bandbredd/dataflöde; Latency; Lagringskapacitet; Frekvens
 C: IT,kommunikation,teknik
+
+Q: Variables declared in blocks of if,else-if,else are local to the block they were declared in.
+A: True; False
+C: programming,C++
