@@ -470,3 +470,7 @@ C: programming,C++
 Q: Vad ligger vulkanen Etna?
 A: Sicilien; Nära Rom; Spanien; Monaco
 C: blandat,geografi
+
+Q: Name a reason why move semantics in C++ is useful
+A: Prevents need for copying objects (can be expensive)
+C: programming,C++
