@@ -474,3 +474,7 @@ C: blandat,geografi
 Q: Name a reason why move semantics in C++ is useful
 A: Prevents need for copying objects (can be expensive)
 C: programming,C++
+
+Q: Explain (one reason) why we need virtual functions in c++
+A: To support run-time polymorphism. E.g. we don’t know which derived class objects will be created before running, so we have a virtual function f() in base class which at run-time will make sure to call the derived classes f() through a base class pointer.
+C: programming,C++
