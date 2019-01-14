@@ -478,3 +478,7 @@ C: programming,C++
 Q: Explain (one reason) why we need virtual functions in c++
 A: To support run-time polymorphism. E.g. we don’t know which derived class objects will be created before running, so we have a virtual function f() in base class which at run-time will make sure to call the derived classes f() through a base class pointer.
 C: programming,C++
+
+Q: What’s the purpose of C++:s auto_ptr type?
+A: It serves as a pointer which owns object pointed to, so that it deletes the object when itself deleted. Useful to prevent memory leaks in a neat way (otherwise one needs rather complicated try/catch blocks)
+C: programming,C++
