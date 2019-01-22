@@ -482,3 +482,7 @@ C: programming,C++
 Q: What’s the purpose of C++:s auto_ptr type?
 A: It serves as a pointer which owns object pointed to, so that it deletes the object when itself deleted. Useful to prevent memory leaks in a neat way (otherwise one needs rather complicated try/catch blocks)
 C: programming,C++
+
+Q: The declaration int* pNumber
+A: Allocates memory for address-to-int; Allocates memory for address-to-int and to int; Allocates memory for int; Doesn’t allocate any memory
+C: programming,C++
