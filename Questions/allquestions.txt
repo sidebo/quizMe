@@ -486,3 +486,7 @@ C: programming,C++
 Q: The declaration int* pNumber
 A: Allocates memory for address-to-int; Allocates memory for address-to-int and to int; Allocates memory for int; Doesn’t allocate any memory
 C: programming,C++
+
+Q: int x(3); const int* px=&x. px is a
+A: pointer to const int (x cannot be modified by px); const pointer to int (px cannot be repointed but x can be modified via px); const pointer to const int; pointer to int
+C: programming,C++
