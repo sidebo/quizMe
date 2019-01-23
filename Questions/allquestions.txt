@@ -490,3 +490,7 @@ C: programming,C++
 Q: int x(3); const int* px=&x. px is a
 A: pointer to const int (x cannot be modified by px); const pointer to int (px cannot be repointed but x can be modified via px); const pointer to const int; pointer to int
 C: programming,C++
+
+Q: int x[10]; How do you declare a reference to array x?
+A: int(&xr)[10] = x; int& xr[10] = x; int*&xr = x; int&* xr=x;
+C: programming,C++
