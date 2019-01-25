@@ -494,3 +494,7 @@ C: programming,C++
 Q: int x[10]; How do you declare a reference to array x?
 A: int(&xr)[10] = x; int& xr[10] = x; int*&xr = x; int&* xr=x;
 C: programming,C++
+
+Q: Discuss difference between std::list and std::vector (storage, access…)
+A: Vector is stored contiguously (I think this means like an array, one element after the other in the same block of memory), lists are not (can be stored here and there). Lists are slower to iterate through because fast random access is not supported (like with an index I think). 
+C: programming,C++
