@@ -506,3 +506,7 @@ C: programming,C++
 Q: What wrong with this expression? s1 and s2 are strings.    const char* cs = (s1+s2).c_str();
 A: s1+s2 is stored in a temporary object, its address assigned to cs. Then the temporary is destroyed. cs thus points to deallocated storage.
 C: programming,C++
+
+Q: The size_t type is an unsigned integer type, and
+A: the type returned by the sizeof() operator; always an int; always a long; always a short
+C: programming,C++,C
