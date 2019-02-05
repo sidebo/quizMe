@@ -510,3 +510,7 @@ C: programming,C++
 Q: The size_t type is an unsigned integer type, and
 A: the type returned by the sizeof() operator; always an int; always a long; always a short
 C: programming,C++,C
+
+Q: Class A has a destructor ~A(). A dynamically allocated A should call delete to not leak. Upon calling delete
+A: ~A() is automatically called; ~A() is not called, we must call it explicitly before deleting; ~A() is called if A is a derived class; ~A() is called if A is a base class
+C: programming,C++
