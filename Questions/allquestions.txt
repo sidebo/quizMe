@@ -518,3 +518,7 @@ C: programming,C++
 Q: Vilka är de två stora journalistpriserna i Sverige?
 A: Guldspaden och Stora Journalistpriset
 C: journalism
+
+Q: What is Cross-site scripting (XXS), Sender Policy Framework (SPF) och Cross-Site Request Forgery (CSRF)?
+A: Check out https://www.youtube.com/watch?v=Elj_nfXrMSY&list=PLbKl_RtocZesz1bAOg3AJczLrWt3_4kQ0&index=3
+C: CyberSecurity
