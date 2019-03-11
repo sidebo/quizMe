@@ -530,3 +530,7 @@ C: C++,programming
 Q: ge ett exempel på en automatisk stabilisator
 A: a-kassan. Vid en lågkonjunktur kickar den in utan att något beslut krävs, och håller uppe efterfrågan. Detta till skillnad från en diskretionär stabilisator som är ett aktivt beslut om t.ex. ett järnvägsbygge.
 C: ekonomi,politik
+
+Q: What is brachytherapy?
+A: Inside-out radiation therapy, treating a tumour by placing a source of radiation inside or near a tumour (as opposed to External beam radiotherapy (EBRT))
+C: physics,cancer
