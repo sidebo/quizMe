@@ -534,3 +534,7 @@ C: ekonomi,politik
 Q: What is brachytherapy?
 A: Inside-out radiation therapy, treating a tumour by placing a source of radiation inside or near a tumour (as opposed to External beam radiotherapy (EBRT))
 C: physics,cancer
+
+Q: What is the quickest way to do a sort?
+A: “quicksort” generally considered fastest, on average it performs as O(n*log(n)). See https://medium.com/human-in-a-machine-world/quicksort-the-best-sorting-algorithm-6ab461b5a9d0
+C: algorithms,programming
