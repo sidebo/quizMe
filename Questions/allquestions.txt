@@ -538,3 +538,7 @@ C: physics,cancer
 Q: What is the quickest way to do a sort?
 A: “quicksort” generally considered fastest, on average it performs as O(n*log(n)). See https://medium.com/human-in-a-machine-world/quicksort-the-best-sorting-algorithm-6ab461b5a9d0
 C: algorithms,programming
+
+Q: Vilka är de två fackliga förbunden för lärare i Sverige (bonus för vilka respektive centrala förbund dessa tillhör)?
+A: Lärarförbundet (TCO) och Lärarnas Riksförbund (Saco)
+C: ekonomi,politik,utbildning,skola
