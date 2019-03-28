@@ -542,3 +542,7 @@ C: algorithms,programming
 Q: Vilka är de två fackliga förbunden för lärare i Sverige (bonus för vilka respektive centrala förbund dessa tillhör)?
 A: Lärarförbundet (TCO) och Lärarnas Riksförbund (Saco)
 C: ekonomi,politik,utbildning,skola
+
+Q: Explain the ‘noexcept’ keyword in C++
+A: WRITE ME
+C: programming,C++
