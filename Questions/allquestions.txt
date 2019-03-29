@@ -546,3 +546,11 @@ C: ekonomi,politik,utbildning,skola
 Q: Explain the ‘noexcept’ keyword in C++
 A: WRITE ME
 C: programming,C++
+
+Q: Explain the RAII principle 
+A: RAII = Resource Acquisition Is Initialisation. The idea, as I see it, is to make sure that allocating a resource is done by initialising an object. This is good because when we go out of scope, resources are freed when the object is destroyed. No matter how we go out of scope (return, thrown exception…)
+C: programming,C++
+
+Q: Explain private vs. public inheritance
+A: Private inheritance means is-implemented-in-terms-of. class A: private B {}; means that all public and protected members of B become private in A. Class A does not inherit the interface of B, therefore one shouldn’t think that A-is-B. Rather, A-has-B. It’s thus similar to A having a private member of class B. That should be preferred, according to https://www.bogotobogo.com/cplusplus/private_inheritance.php. 
+C: programming,C++
